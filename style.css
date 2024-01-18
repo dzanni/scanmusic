@@ -1,0 +1,183 @@
+body
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+	margin: 0 auto;
+	padding: 0;
+	width: 80%;
+	text-align: justify;
+	color: black;
+}
+
+h1
+{
+	font-weight: bold;
+	font-size: 150%;
+}
+
+a
+{
+	color: black;
+	text-decoration: underline;
+}
+
+a:hover
+{
+	color: black;
+}
+
+a:active
+{
+	color: black;
+}
+
+a.no_decoration
+{
+	text-decoration: none;
+}
+
+.header
+{
+	font-weight: bold;
+	font-size: 150%;
+}
+
+.text
+{
+
+}
+
+
+.fig
+{
+  text-align: center;
+}
+
+
+.i
+{
+	font-style: italic;
+}
+
+.error
+{
+	background-color: red;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.ref
+{
+	margin-left: 1em;
+}
+
+.refren
+{
+	margin-left: 30px;
+}
+
+.refren1
+{
+	margin-left: 60px;
+}
+
+.refren2
+{
+	margin-left: 90px;
+}
+
+.refren3
+{
+	margin-left: 120px;
+}
+
+.blue
+{
+	color: blue;
+}
+
+.red
+{
+	color: red;
+}
+
+.mark
+{
+	font-size: 75%;
+}
+
+.menu
+{
+
+}
+
+.menu a
+{
+}
+
+.menu a:hover
+{
+}
+
+.menu a:active
+{
+}
+
+.button
+{
+	background-color: white;
+	border: solid black 1px;
+	text-decoration: none;
+	padding: 5px 5px;
+	line-height: 220%;
+	border-radius: 8px;
+	white-space: nowrap;
+}
+
+.button.black
+{
+	color: white;
+	background-color: black;
+}
+
+.button.targeted
+{
+	background-color: lightgrey;
+}
+
+.form
+{
+	width: auto;
+}
+
+.generate
+{
+	width: auto;
+	color: red;
+}
+
+th
+{
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+}
+
+th a
+{
+}
+
+th a:hover
+{
+}
+
+th a:active
+{
+}
+
+table.table_top td{
+	vertical-align: top;
+}

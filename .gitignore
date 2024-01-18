@@ -1,0 +1,6 @@
+app/db.php
+.htaccess
+.DS_Store
+*.log
+.idea
+_notes
